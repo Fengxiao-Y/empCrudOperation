@@ -1,0 +1,14 @@
+{
+	"total":5,"rows":[
+		{"empNo":1199,"empName":"中国","job":"管理人员","manager":7369,"hiredate":"2018-12-10","salary":2500.0,"commision":2000.0,"deptno":10},
+		{"empNo":2222,"empName":"2222","job":"2222","manager":1111,"hiredate":"2018-12-09","salary":4000.0,"commision":200.0,"deptno":10},
+		{"empNo":7369,"empName":"史密思","job":"行政人员","manager":7902,"hiredate":"1980-12-17","salary":800.0,"commision":0.0,"deptno":20},
+		{"empNo":7499,"empName":"爱伦","job":"销售人员","manager":7698,"hiredate":"1981-02-20","salary":1600.0,"commision":300.0,"deptno":30},
+		{"empNo":7521,"empName":"沃德","job":"销售人员","manager":7698,"hiredate":"1981-02-22","salary":1250.0,"commision":500.0,"deptno":30},
+		{"empNo":1199,"empName":"中国","job":"管理人员","manager":7369,"hiredate":"2018-12-10","salary":2500.0,"commision":2000.0,"deptno":10},
+		{"empNo":2222,"empName":"2222","job":"2222","manager":1111,"hiredate":"2018-12-09","salary":4000.0,"commision":200.0,"deptno":10},
+		{"empNo":7369,"empName":"史密思","job":"行政人员","manager":7902,"hiredate":"1980-12-17","salary":800.0,"commision":0.0,"deptno":20},
+		{"empNo":7499,"empName":"爱伦","job":"销售人员","manager":7698,"hiredate":"1981-02-20","salary":1600.0,"commision":300.0,"deptno":30},
+		{"empNo":7521,"empName":"沃德","job":"销售人员","manager":7698,"hiredate":"1981-02-22","salary":1250.0,"commision":500.0,"deptno":30}
+	]
+}
